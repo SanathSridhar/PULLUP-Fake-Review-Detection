@@ -13,9 +13,6 @@ This project is a part of the course ISE 540 at the University of Southern Calif
 - [PULLUP-BERT Model](#pullup-model)
 - [Classifier Model](#classifier-model)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Training and Evaluation](#training-and-evaluation)
-- [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Author](#author)
 
@@ -100,3 +97,11 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+#### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+#### Author
+
+- Sanath Sridhar
